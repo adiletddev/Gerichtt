@@ -1,0 +1,252 @@
+@media (max-width: 1440px) {
+    #special {
+        padding: 30px;
+    }
+    .shef {
+        margin: -34px;
+    }
+}
+@media (max-width: 1200px) {
+    .swiper {
+        height: 323px;
+    }
+    .gallery-left {
+        width: 580px;
+        height: 303px;
+    }
+    .updates-title {
+        margin: -7px;
+    }
+    .container {
+        width: 124%;
+    }
+    .header-title{
+        margin-right: 49px;
+    }
+    .header-nav {
+        margin-right: 275px;
+    }
+    [data-aos^=fade][data-aos^=fade].aos-animate {
+        margin-left: 463px;
+    }
+    .shef {
+        margin: -301px -413px;
+        margin-left: -402px;
+    }
+    .footer{
+        margin: 154px;
+    }
+}
+@media (max-width: 1024px) {
+    .header-title {
+        margin-right: -85px;
+    }
+    .container {
+        width: 138%;
+    }
+    .shef {
+        margin: 26px -539px;
+        margin-left: -401px;
+    }
+    .footer-left {
+        margin-left: -166px;
+    }
+    .footer {
+        margin-right: 227px;
+    }
+}
+@media (max-width: 992px) {
+    .header-title {
+        margin-right: -29px;
+    }
+    .hero-title {
+        padding: 33px;
+    }
+    .laurels-title h1 {
+        margin-top: -117px;
+        margin-left: 29px;
+        margin-bottom: 38px;
+    }
+}
+@media (max-width: 768px) {
+    .laurels-title h1 {
+        margin-top: -102px;
+        margin-left: 29px;
+        margin-bottom: -42px;
+        width: 251px;
+        height: 124px;
+    }
+}
+@media (max-width: 576px) {
+    .container {
+        width: 236%;
+    }
+    .laurels-title h1 {
+        margin-top: -117px;
+        margin-left: 29px;
+        margin-bottom: 38px;
+        width: 250px;
+        height: 90px;
+    }
+    .footer {
+        margin-right: -93px;
+    }
+    .header-title {
+        margin-right: -84px;
+    }
+    .header-nav {
+        margin-right: 141px;
+    }
+    .special-right {
+        margin-right: -274px;
+    }
+    .customers-shef {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 10px;
+        height: 1348px;
+    }
+    .laurels-nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 571px;
+    }
+}
+@media (max-width: 451px) {
+    .hero-title{
+        height: 773px;
+    }
+    .hero-title {
+        padding: 19px;
+    }
+    .about {
+        margin: 77px 91px;
+    }
+    .about-title {
+        margin-left: 337px;
+    }
+    .special-right {
+        margin-right: -109px;
+    }
+    [data-aos^=fade][data-aos^=fade].aos-animate {
+        margin-top: -1081px;
+    }
+    .shef {
+        margin: 107px -915px;
+        margin-left: -515px;
+    }
+    .footer {
+        margin-right: -128px;
+    }
+}
+@media (max-width: 400px) {
+    .header-nav {
+        margin-right: 193px;
+    }
+    .about {
+         display: flex;
+         align-items: center;
+         justify-content: space-between;
+         padding-bottom: -43px;
+         width: 115%;
+     }
+    .special-right {
+        animation: right 3s ease-in-out infinite;
+        margin-left: 482px;
+    }
+    .shef {
+        margin: 137px -979px;
+        margin-left: -521px;
+    }
+    .container {
+        width: 160%;
+    }
+    .customers-top {
+        padding: 30px 0;
+        width: 850px;
+    }
+    .laurels-left {
+        margin-left: -87px;
+    }
+    .left {
+        margin-left: 349px;
+        margin-top: -154px;
+        padding-bottom: 2px;
+    }
+    .updates-title {
+        margin: -64px -481px;
+        font-size: 13px;
+        margin-left: -72px;
+    }
+    #footer {
+        padding: 100px;
+        background: url(../img/top2.png) no-repeat center/cover;
+        min-height: 100vh;
+        width: 1405px;
+    }
+    .footer{
+        margin-right: 760px;
+    }
+}
+@media (max-width: 376px) {
+    .header-nav {
+        margin-right: 185px;
+    }
+    .about {
+        width: 112%;
+    }
+    .about-center{
+        margin-left: 123px;
+    }
+    .special-right {
+        animation: right 3s ease-in-out infinite;
+        margin-right: -124px;
+    }
+    .shef {
+        margin: 7px -796px;
+        margin-left: -531px;
+    }
+    .customers-shef {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 406px;
+    }
+    .laurels-left {
+        margin-left: -91px;
+    }
+    .laurels-title {
+        margin-top: -21px;
+        width: 258px;
+        height: 177px;
+    }
+    .updates-title {
+        margin: -18px -292px;
+        margin-left: -43px;
+    }
+    .footer{
+        margin-right: 493px;
+    }
+
+    element.style {
+    }
+    #footer {
+        width: 1220px;
+    }
+    .about-center {
+        margin-left: 110px;
+    }
+    .about {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: 250px;
+        width: 103%;
+        height: 334px;
+    }
+}
+@media (max-width: 320px) {
+
+}
